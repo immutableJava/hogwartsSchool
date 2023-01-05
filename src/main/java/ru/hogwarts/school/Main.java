@@ -1,6 +1,8 @@
 package ru.hogwarts.school;
 
 public class Main {
+    ///
+
     public static void main(String[] args) {
 /*        List<Faculty> faculties = new ArrayList<>();
         List<Student> students = new ArrayList<>();
